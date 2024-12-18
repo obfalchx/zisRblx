@@ -47,7 +47,7 @@ if not game.CoreGui:FindFirstChild("ThunderScreen") then
     TestLabelVN.TextSize = 30
 
     ThunderToggleUI.MouseButton1Click:Connect(function()
-        setclipboard("https://discord.gg/TdStSqtM8p")
+        setclipboard("https://discord.com/invite/hcJ8PHtkfy")
     end)
 end
 
